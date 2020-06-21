@@ -1,0 +1,10 @@
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\calculatorlab.csprojAssemblyReference.cache
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\bin\Debug\calculatorlab.exe.config
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\bin\Debug\calculatorlab.exe
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\bin\Debug\calculatorlab.pdb
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\calculatorlab.Properties.Resources.resources
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\calculatorlab.csproj.GenerateResource.cache
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\calculatorlab.csproj.CoreCompileInputs.cache
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\calculatorlab.exe
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\calculatorlab.pdb
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorlab\obj\Debug\WinFormsCalculator.Form1.resources

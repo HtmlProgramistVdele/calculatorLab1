@@ -1,0 +1,6 @@
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorconsole\bin\Debug\calculatorconsole.exe
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorconsole\bin\Debug\calculatorconsole.pdb
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorconsole\obj\Debug\calculatorconsole.csprojAssemblyReference.cache
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorconsole\obj\Debug\calculatorconsole.csproj.CoreCompileInputs.cache
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorconsole\obj\Debug\calculatorconsole.exe
+C:\Users\RNRNRNR\RiderProjects\calculatorlab\calculatorconsole\obj\Debug\calculatorconsole.pdb
